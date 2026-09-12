@@ -2,6 +2,8 @@
 
 ``Última atualização: 12/09/2026, por Willian Bonner.``
 
+<small>Este texto tem um tamanho específico de 11 pixels.</small>
+
 Depois de assistir o vídeo do canal [Tem Ciência](https://www.youtube.com/watch?v=6S2uErfHUe0) sobre inteligência artificial, resolvi criar uma forma de utilizar o Deepseek ao meu favor. 
 
 **Projeto que não deu certo:** Tentei criar um prompt que assimila minhas notas escritas para converter em Latex. Mas o Deepseek não reconheceu corretamente a minha escrita. Vou pensar um jeito para fazer isso depois.
